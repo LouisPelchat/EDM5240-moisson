@@ -1,6 +1,6 @@
 #coding: utf-8 
 
-#Le moissonnage est très incomplet. Le script qui fonctionne se termine à la ligne 34.
+#Le moissonnage est très incomplet. Le script qui fonctionne se termine à la ligne 40.
 #J'ai laissé des traces de certains de mes essais suivant cette ligne.
 #Je suis au courant que la page que j'ai choisi «moissonne» déjà des données
 #Même si il peut être pertinent de transcoder ces données en .csv ou .xls
