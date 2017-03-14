@@ -94,6 +94,7 @@ for ligne in page.find_all("tr"):
         
 #J'ai tout de même créer un .csv avec mon script fonctionnel même si mes données ne sont pas du tout isolées
 #Et que tout es très illisible.
+#Cependant, les informations que je voulais isolées se retrouvent parmi celle contenue dans le .csv
 
 #Merci et bonne semaine :) 
          
